@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://www.roblox.com/ko/users/8004197225/profile" target="_blank"><img src="https://img.shields.io/badge/#000000?style=fot-the-badge&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://www.roblox.com/ko/users/8004197225/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=fot-the-badge&logo=appveyor&logoColor=FFFFFF"/></a>
 <!--
 **Lumi-Aura/Lumi-Aura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
