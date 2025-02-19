@@ -1,7 +1,7 @@
 Hi ! I'm Lumi-Aura [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-* 🌍  I'm based in Korea
+* 🌍  I'm live in Korea
 * 🖥️  See my portfolio at [Lumi's Portfolio](http://Lumi)
 * ⚡  I'm secretly not human... but don't tell anyone
 
